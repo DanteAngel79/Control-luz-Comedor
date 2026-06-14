@@ -1,0 +1,18 @@
+# Artefactos de compilación de Arduino
+build/
+*.bin
+*.hex
+*.elf
+*.map
+*.o
+*.d
+
+# Editor / IDE (pueden contener rutas locales)
+.vscode/
+.theia/
+*.iml
+
+# Sistema operativo
+Thumbs.db
+desktop.ini
+.DS_Store
